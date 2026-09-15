@@ -78,13 +78,5 @@ The original solution attempts to load MIT-BIH record 100 with `wfdb`. If Physio
 
 Prepared from the supplied `ECM402_Lab1B_Solution.ipynb`.
 
-## GitHub
 
-```bash
-git init
-git add .
-git commit -m "Add ECM-402 Lab 1B solutions"
-git branch -M main
-git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
-git push -u origin main
 ```
